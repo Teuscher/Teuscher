@@ -19,4 +19,17 @@ skill
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={Teuscher}&theme=blue-green)
+### Hi there 👋,I'm Teuscher.
+
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: mmmteuscher@gmail.com
+
+![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+
+### My Skill Set
+
+![](https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
